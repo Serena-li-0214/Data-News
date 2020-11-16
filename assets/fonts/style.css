@@ -3,3 +3,8 @@
    font-display: swap;
    src: url('汉仪方隶简/font.ttf');
 }
+@font-face {
+   font-family: 'HuaWenXiHei-1';
+   font-display: swap;
+   src: url('HuaWenXiHei-1/font.ttf');
+}
