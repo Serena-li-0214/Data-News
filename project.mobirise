@@ -51,7 +51,7 @@
     "versionPublish": "5.1.4",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/128x181-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/5c758eec9f4ad-128x96.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
